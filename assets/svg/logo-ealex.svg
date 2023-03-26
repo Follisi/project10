@@ -1,0 +1,10 @@
+<svg id="eHZWbcoFGJk1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" style="background-color:transparent">
+    <g>
+        <ellipse rx="256" ry="256" transform="translate(256 256)" fill="#fff" stroke-width="0"/>
+        <ellipse rx="214.866683" ry="214.866683" transform="translate(256.640533 256.447381)" fill="#505050" stroke-width="0"/>
+        <ellipse rx="141.859495" ry="137.11106" transform="matrix(1 0 0 1.019377 256 256.447381)" fill="#fff" stroke="#fff"/>
+        <rect width="125.833527" height="205.7853" rx="0" ry="0" transform="matrix(1 0 0 0.269416 335.880042 317.72604)" fill="#fff" stroke-width="0"/>
+        <polygon points="0,-74.797272 71.136433,-23.113628 43.964734,60.512264 -43.964734,60.512264 -71.136433,-23.113628 0,-74.797272" transform="matrix(-.607903 0.598405-.653851-.664229 393.189362 385.573493)" fill="#fff" stroke="#fff"/>
+        <rect style="isolation:isolate" width="145.420822" height="60.958034" rx="0" ry="0" transform="matrix(1 0 0 1.025195 326.086394 255.232168)" fill="#505050" stroke-width="0"/>+
+    </g>
+</svg>
