@@ -59,7 +59,7 @@ function filterProducts() {
             item.id = "" + i;
             item.innerHTML = "View";
             item.href = "./product_cpu.html";
-            item.target = ""
+            item.target = "";
             item.addEventListener("click", function () {
                 localStorage.setItem("index", "" + i + "");
                 localStorage.setItem("cpuDataTmp", JSON.stringify(cpuDataTmp[i]));
